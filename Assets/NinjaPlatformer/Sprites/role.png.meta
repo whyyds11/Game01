@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: 2ebef79a6de9b1d48a8fb93ab8b98523
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2390339217489246741
+    second: role_0
+  - first:
+      213: -8799978733675075017
+    second: role_1
+  - first:
+      213: -7895524293762407022
+    second: role_2
+  - first:
+      213: 1580151571509927773
+    second: role_3
+  - first:
+      213: 6579823256970616783
+    second: role_4
+  - first:
+      213: 9186526771653469864
+    second: role_5
+  - first:
+      213: -4991623364127129572
+    second: role_6
+  - first:
+      213: -563782473483402175
+    second: role_7
+  - first:
+      213: -7071410215552848795
+    second: role_8
+  - first:
+      213: 8320934325734375269
+    second: role_9
+  - first:
+      213: -2825720988848286192
+    second: role_10
+  - first:
+      213: 6247693102790194932
+    second: role_11
+  - first:
+      213: -7338850767384153317
+    second: role_12
+  - first:
+      213: -5090994881757499619
+    second: role_13
+  - first:
+      213: 367802550889431964
+    second: role_14
+  - first:
+      213: -4480750157406385471
+    second: role_0
+  - first:
+      213: -2728822698298188063
+    second: role_1
+  - first:
+      213: -3685345148738045113
+    second: role_2
+  - first:
+      213: -1703966800880635181
+    second: role_3
+  - first:
+      213: 6544638446340915901
+    second: role_4
+  - first:
+      213: -2950542034472545212
+    second: role_5
+  - first:
+      213: -2437715802412226722
+    second: role_6
+  - first:
+      213: 8996244767446166630
+    second: role_7
+  - first:
+      213: 3427558575432234289
+    second: role_8
+  - first:
+      213: -2927304355639807116
+    second: role_9
+  - first:
+      213: -2214900848771609254
+    second: role_10
+  - first:
+      213: -7470895250561578292
+    second: role_11
+  - first:
+      213: -2799200787461962872
+    second: role_12
+  - first:
+      213: -5989307388839217229
+    second: role_13
+  - first:
+      213: -8592504572070807246
+    second: role_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: role_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1607
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca448cc87d21d1c0800000000000000
+      internalID: -4480750157406385471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1607
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eed9ecb636412ad0800000000000000
+      internalID: -2728822698298188063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_2
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1607
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b72ceec160bdcc0800000000000000
+      internalID: -3685345148738045113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_3
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1607
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2737cf83b4a58e0800000000000000
+      internalID: -1703966800880635181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1166
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2c381fdf933da50800000000000000
+      internalID: 6544638446340915901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1166
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d76cf6a19d07d0800000000000000
+      internalID: -2950542034472545212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_6
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1166
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ecdda46e7b2ed0800000000000000
+      internalID: -2437715802412226722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_7
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1166
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c681ca3f419dc70800000000000000
+      internalID: 8996244767446166630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1357b774d52219f20800000000000000
+      internalID: 3427558575432234289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 725
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473b2a4b2302067d0800000000000000
+      internalID: -2927304355639807116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_10
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 725
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc140c9671341e0800000000000000
+      internalID: -2214900848771609254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_11
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 725
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccacf142a5c025890800000000000000
+      internalID: -7470895250561578292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8830650f6bd3729d0800000000000000
+      internalID: -2799200787461962872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_13
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 284
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7bd9d99a4b1eca0800000000000000
+      internalID: -5989307388839217229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: role_14
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 284
+        width: 441
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239bcc2ed9a41c880800000000000000
+      internalID: -8592504572070807246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 26f5b7114e6b3724aa71f794daeca0fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
